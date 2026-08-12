@@ -1,0 +1,16 @@
+{
+  "projectName": "emPress co. Photo Booth",
+  "currencySymbol": "₱",
+  "cycleLabel": "Booth Day",
+  "cycleCount": 3,
+  "items": [
+    { "id": "2x2", "name": "2x2", "basePrice": 50, "includedUnits": 1, "active": true },
+    { "id": "1x3", "name": "1x3", "basePrice": 50, "includedUnits": 2, "active": true }
+  ],
+  "modifiers": [
+    { "id": "extra_copy", "label": "Extra copy", "price": 25, "unit": "per_item" },
+    { "id": "frame", "label": "Different frame", "price": 5, "unit": "per_item" }
+  ],
+  "paymentMethods": ["Cash", "GCash"],
+  "expenseLabels": ["Ink", "Photo Paper", "Props", "Transport", "Food", "Other"]
+}
