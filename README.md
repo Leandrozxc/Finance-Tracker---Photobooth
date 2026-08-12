@@ -1,4 +1,4 @@
-# RotaSnap / EmpressLedger — Booth Finance Tracker
+# EmpressLedger — Booth Finance Tracker
 
 An offline finance tracker for a student-run, multi-day photo booth event. Built to record sales and expenses, track partner-organization frame fees, and calculate net income after Rotaract's revenue share — without needing an internet connection.
 
